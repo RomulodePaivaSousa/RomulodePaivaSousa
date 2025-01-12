@@ -1,5 +1,10 @@
 # 👋 Hi, I’m Romulo de Paiva Sousa!
 
+![Banner do perfil](./2025-01-12 21.10.58 - Imagem perfil github.webp)
+
+Welcome to my GitHub profile! Here, I share my journey in web development and cloud computing.
+# 👋 Hi, I’m Romulo de Paiva Sousa!
+
 Welcome to my GitHub profile! Here, I share my journey in web development and cloud computing.
 
 ## 🌟 About Me
